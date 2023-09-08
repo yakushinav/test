@@ -2,7 +2,7 @@ print("Hello1")
 print("Hello2")
 print("Hello3")
 
-for k in range(10):
-    print(k*k)
+for z in range(10):
+    print(z*z)
     
     
